@@ -1,7 +1,1 @@
-$('.menu_button').click(function(){
- alert('any');
-})
-
-
-
- 
+$('.drawer').on('drawer.closed', function(){});
